@@ -5,7 +5,7 @@ If you want to explore more programes of DSA you can visit this [REPO](https://g
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring this repository! It will push me to give more percentage of efforts</h4>
 
 ## Dynamic Programming
-|  S.No  | Problem         |  Handwritten Notes       |  Time           | Space           |
+|  S.No  | Solution         | Problem         |  Handwritten Notes       |  Time           | Space           |
 |-----|---------------- | --------------- | --------------- | --------------- | 
 1 |:point_right:[Knapsack Recursion](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/01%20Recursive%20Knapsack.cpp) | [:blue_book:](https://drive.google.com/file/d/1DhuwI5-RWRfu1FO9_RAOnn46c5Lf687O/view?usp=sharing)  | _O(2^n)_       | _O(1)_          |
 2 | [Knapsack Memoization-Top-Down](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/02%20Knapsack%20Memoization(DP).cpp) | [:blue_book:](https://drive.google.com/file/d/1nwv4ZAAAbZrUVi8Po49grzYiJo39ibSw/view?usp=sharing)  | _O(N*W)_       | _O(N*W)_          | 
