@@ -1,7 +1,6 @@
-### Competitive-Programming
-## Aditya-verma-youtube-playlist-code
-This repo consists of aditya verma youtube channel code for different section, I am still working this soon it will be updated fully, This repo I made for the purpose of revision Time and space complexity will be updated for all programs.
-If you want to explore more programes of DSA you can visit this [REPO](https://github.com/skjha1/Data-Structure-Algorithm-Programs)
+## Competitve-Programming
+This repo consists of aditya verma youtube channel code and competitve programming related code, I am still working this soon it will be updated fully, This repo I made for the purpose of revision and reuse in other programs.
+If you want to explore more programes of DSA you can visit this [REPO](https://github.com/kuldeepbishnoi/Competitive-Programming)
 
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring this repository! It will push me to give more percentage of efforts</h4>
 
