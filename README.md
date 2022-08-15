@@ -35,7 +35,7 @@ If you want to explore more programes of Data Structure you can visit this [REPO
 26|Form a palindrome [Recursion ](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/DP/03_LCS/04_countMinimumInsertionPalindrome_recursion_memoization.py) |[:question:](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1)||
 
 
-## Coming Soon [:blue_book:](
+## Coming Soon [:blue_book:]()
 
 |  S.No  | Solution | Problem | Notes |
 |--|--|--|--|
