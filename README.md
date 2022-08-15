@@ -35,62 +35,8 @@ If you want to explore more programes of Data Structure you can visit this [REPO
 26|Form a palindrome [Recursion ](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/DP/03_LCS/04_countMinimumInsertionPalindrome_recursion_memoization.py) |[:question:](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1)||
 
 
-## Stack 
+## Coming Soon [:blue_book:](
 
-
-
-|  S.No  | Problem         |  Handwritten Notes       |  Time           | Space           |
-|-----|---------------- | --------------- | --------------- | --------------- | 
-1 | [Nearest greater to right](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Stack/01%20Nearest%20greater%20to%20right.cpp) | [:blue_book:](https://drive.google.com/file/d/1K0GOA7KaNPVq6mW09MUwzdD9RnrT4iNd/view?usp=sharing)  | _O(n)_       | _O(n)_          |
-2 | [Nearest greater to left](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Stack/02%20Nearest%20greater%20to%20left(NGL).cpp) | [:blue_book:](https://drive.google.com/file/d/16ikIhdad0ojGZzYnrVAyR_dnqQsbeBIR/view?usp=sharing)  | _O(n)_       | _O(n)_          |
-3 | [Nearest smaller to left](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Stack/03%20Nearest%20smaller%20to%20left.cpp) | [:blue_book:](https://drive.google.com/file/d/16DO1rXKTu4U-beTh7nbsGd6XmUWqIFmb/view?usp=sharing)  | _O(n)_       | _O(n)_          |
-4 | [Nearest Smaller to right](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Stack/04%20Nearest%20smaller%20to%20right.cpp) | [:blue_book:](https://drive.google.com/file/d/1tzyQW8hk3KriYFQZQfuM7dw1uibvoJYN/view?usp=sharing)  | _O(n)_       | _O(n)_          |
-5 | [Stock span problem](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Stack/05%20Stock%20span%20problem.cpp) | [:blue_book:](https://drive.google.com/file/d/1-NqGSrilyDOBBXfqSrCgUFXFi6Qmjn9p/view?usp=sharing)  | _O(n)_       | _O(n)_          |
-5 | [Maximum Rectangular Area in a Histogram](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Stack/06%20Maximum%20Rectangular%20Area%20in%20a%20Histogram.cpp) | [:blue_book:](https://drive.google.com/file/d/19q3tYzuIKTNLd9yq0mPbSAyOQvx3tvcV/view?usp=sharing)  | _O(n)_       | _O(n)_          |
-6 | [Max area rectangle in Binary matrix](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Stack/07%20Max%20area%20rectangle%20in%20Binary%20matrix.cpp) | [:blue_book:](https://drive.google.com/file/d/1ckMtxRT61WyfWW_flioPFCFn47mcY-o2/view?usp=sharing)  | _O(n)_       | _O(n)_          |
-
-
-
-
-
-
-
-
-
-## Binary Search
-
-|  S.No  | Problem         |  Handwritten Notes       |  Time           | Space           |
-|-----|---------------- | --------------- | --------------- | --------------- | 
-1 | [Binary Search](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Binary%20Search/01%20Binary%20search.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(logn)_       | _O(logn)_          |
-2 | [Binary search on reverse sorted array](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Binary%20Search/02%20Binary%20search%20on%20reverse%20sorted%20array.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(logn)_       | _O(logn)_          |
-3 | [Order not known or Agonostic BS](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Binary%20Search/03%20Order%20not%20known%20or%20Agonostic%20BS.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(logn)_       | _O(logn)_          |
-
-
-
-
-
-
-
-
-## Heap
-
-|  S.No  | Problem         |  Handwritten Notes       |  Time           | Space           |
-|-----|---------------- | --------------- | --------------- | --------------- | 
-1 | [Kth smallest element](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Heap/01%20Kth%20smallest%20element.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(n log k)_       | _O(n log k)_          |
-2 | [Kth largest element in an array](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Heap/02%20Kth%20largest%20element%20in%20an%20array.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(n log k)_       | _O(n log k)_          |
-3 | [Nearly Sorted Algorithm or sort k sorted array](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Heap/03%20Nearly%20Sorted%20Algorithm%20or%20sort%20k%20sorted%20array.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(n log k)_       | _O(n log k)_          |
-
-
-
-
-
-
-
-## Sliding Window
-
-|  S.No  | Problem         |  Handwritten Notes       |  Time           | Space           |
-|-----|---------------- | --------------- | --------------- | --------------- | 
-1 | [Maximum Sum Subarray of size K](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Sliding%20Window/01%20Maximum%20Sum%20Subarray%20of%20size%20K.cpp) | [:blue_book:](https://drive.google.com/file/d/1ppRCKREsg4nysKrKncm2xre7D_IDUGaT/view?usp=sharing)  | _O(n)_       | _O(1)_          |
-2 | [First negative integer in every window of size k](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Sliding%20Window/02%20First%20negative%20integer%20in%20every%20window%20of%20size%20k.cpp) | [:blue_book:](https://drive.google.com/file/d/17CwCrHr3DqJQ57hozH1peyDSfwUBvFT4/view?usp=sharing)  | _O(n)_       | _O(K)_          |
-
-
+|  S.No  | Solution | Problem | Notes |
+|--|--|--|--|
+1:point_left:|[]() []() |[:question:]()|[:blue_book:]()|
