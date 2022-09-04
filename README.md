@@ -37,6 +37,6 @@ If you want to explore more programes of Data Structure you can visit this [REPO
 
 ## Coming Soon [:blue_book:]()
 
-|  S.No  | Solution | Problem | Notes |
-|--|--|--|--|
-1:point_left:|[]() []() |[:question:]()|[:blue_book:]()|
+|  S.No  | Solution | Problem | Notes | Tags |
+|--|--|--|--|--|
+1:point_left:|[]() []() |[:question:]()|[:blue_book:]()||
