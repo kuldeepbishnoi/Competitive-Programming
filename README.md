@@ -35,12 +35,12 @@ If you want to explore more programes of Data Structure you can visit this [REPO
 26|Form a palindrome [Recursion ](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/DP/03_LCS/04_countMinimumInsertionPalindrome_recursion_memoization.py) |[:question:](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1)||
 
 
-## Coming Soon [:blue_book:]()
+## Binary Search [:blue_book:]()
 
 |  S.No  | Solution | Problem | Notes | Tags |
 |--|--|--|--|--|
-1:point_left:|[]()|[:question:]()|[:blue_book:]()||
-|[reverseSortedBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/reverseSortedBS.py)||||Binary Search
-|[almostSortedBST](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/almostSortedBST.py)||||Binary Search
-|[infinteBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/infinteBS.py)||||Binary Search
-|[biotonicBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/biotonicBS.py)||||Binary Search on Ans
+1:point_left:|[]()|[:question:]()|[:blue_book:]()|
+||[reverseSortedBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/reverseSortedBS.py)|||Binary Search
+||[almostSortedBST](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/almostSortedBST.py)|||Binary Search
+||[infinteBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/infinteBS.py)|||Binary Search
+||[biotonicBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/biotonicBS.py)|||Binary Search on Ans
