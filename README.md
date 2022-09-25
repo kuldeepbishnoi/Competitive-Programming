@@ -40,7 +40,7 @@ If you want to explore more programes of Data Structure you can visit this [REPO
 |  S.No  | Solution | Problem | Notes | Tags |
 |--|--|--|--|--|
 1:point_left:|[]()|[:question:]()|[:blue_book:]()||
-|[reverseSortedBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/reverseSortedBS.py)|||Binary Search|
-|[almostSortedBST](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/almostSortedBST.py)|||Binary Search|
-|[infinteBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/infinteBS.py)|||Binary Search|
-|[biotonicBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/biotonicBS.py)|||Binary Search on Ans|
+|[reverseSortedBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/reverseSortedBS.py)||||Binary Search
+|[almostSortedBST](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/almostSortedBST.py)||||Binary Search
+|[infinteBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/infinteBS.py)||||Binary Search
+|[biotonicBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/biotonicBS.py)||||Binary Search on Ans
