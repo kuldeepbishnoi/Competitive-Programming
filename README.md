@@ -35,7 +35,7 @@ If you want to explore more programes of Data Structure you can visit this [REPO
 26|Form a palindrome [Recursion ](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/DP/03_LCS/04_countMinimumInsertionPalindrome_recursion_memoization.py) |[:question:](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1)||
 
 
-## Binary Search [:blue_book:]()
+## Binary Search [:blue_book:](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/binary%20search.docx)
 
 |  S.No  | Solution | Problem | Notes | Tags |
 |--|--|--|--|--|
@@ -44,3 +44,9 @@ If you want to explore more programes of Data Structure you can visit this [REPO
 ||[almostSortedBST](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/almostSortedBST.py)|||Binary Search
 ||[infinteBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/infinteBS.py)|||Binary Search
 ||[biotonicBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/biotonicBS.py)|||Binary Search on Ans
+
+## Sliding Window [:blue_book:](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Sliding%20Window/sliding%20window.docx)
+
+|  S.No  | Solution | Problem | Notes | Tags |
+|--|--|--|--|--|
+1:point_left:|[]()|[:question:]()|[:blue_book:]()|
