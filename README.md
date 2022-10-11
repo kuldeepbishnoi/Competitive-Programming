@@ -39,7 +39,6 @@ If you want to explore more programes of Data Structure you can visit this [REPO
 
 |  S.No  | Solution | Problem | Notes | Tags |
 |--|--|--|--|--|
-1:point_left:|[]()|[:question:]()|[:blue_book:]()|
 ||[reverseSortedBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/reverseSortedBS.py)|||Binary Search
 ||[almostSortedBST](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/almostSortedBST.py)|||Binary Search
 ||[infinteBS](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/infinteBS.py)|||Binary Search
@@ -47,6 +46,41 @@ If you want to explore more programes of Data Structure you can visit this [REPO
 
 ## Sliding Window [:blue_book:](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Sliding%20Window/sliding%20window.docx)
 
+|  S.No  | Solution | Problem | Notes | Tags |
+|--|--|--|--|--|
+||[]()|[:question:]()|[:blue_book:]()|
+
+## Bit Manipulation [:blue_book:](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Bit%20Manipulation/Bit%20Manipulation.docx)
+
+|  S.No  | Solution | Problem | Notes | Tags |
+|--|--|--|--|--|
+||[]()|[:question:]()|[:blue_book:]()|
+
+## Graph [:blue_book:](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Graph/Graph.docx)
+
+|  S.No  | Solution | Problem | Notes | Tags |
+|--|--|--|--|--|
+||[Shortest Path in Undirected Graphs](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Graph/Shortest%20Path%20in%20Undirected%20Graphs.py)|[:question:]()|[:blue_book:]()|
+||[minDistance_directed weighted graph](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Graph/minDistance_directed%20weighted%20graph.py)|[:question:]()|[:blue_book:]()|
+||[minDistance_undirected Graph](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Graph/minDistance_undirected%20Graph.py)|[:question:]()|[:blue_book:]()|
+
+## Heap [:blue_book:](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Heap/heap.docx)
+|  S.No  | Solution | Problem | Notes | Tags |
+|--|--|--|--|--|
+||[]()|[:question:]()|[:blue_book:]()|
+
+## Missing and Duplicate [:blue_book:](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Missing%20and%20Duplicate/Swap%20Sort.docx)
+|  S.No  | Solution | Problem | Notes | Tags |
+|--|--|--|--|--|
+||[]()|[:question:]()|[:blue_book:]()|
+
+## Stack [:blue_book:](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Stack/stack.docx)
+|  S.No  | Solution | Problem | Notes | Tags |
+|--|--|--|--|--|
+||[]()|[:question:]()|[:blue_book:]()|
+
+
+## Coming Soon!!!! [:blue_book:](https://github.com/kuldeepbishnoi/Competitive-Programming/blob/main/Binary%20Search/binary%20search.docx)
 |  S.No  | Solution | Problem | Notes | Tags |
 |--|--|--|--|--|
 1:point_left:|[]()|[:question:]()|[:blue_book:]()|
